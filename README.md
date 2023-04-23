@@ -17,7 +17,7 @@
 ##
 
 <div>
- <a href="https://www.instagram.com/nay_null/" target="_blank"><https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
+ <a href="https://www.instagram.com/nay_null/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
            </div>
           
           
