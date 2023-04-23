@@ -12,7 +12,13 @@
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>         
+</div>  
+
+##
+
+<div>
+ <a href="https://www.instagram.com/nay_null/" target="_blank"><https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
+           </div>
           
           
           
