@@ -10,7 +10,7 @@
 ### work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
 
 
-
+#
 
 <div style="display:  inline_block"<br>
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
