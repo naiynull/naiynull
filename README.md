@@ -1,6 +1,7 @@
 ### Olá!! eu sou a Emanuely
 
 
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
 
 
