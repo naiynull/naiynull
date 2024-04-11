@@ -33,13 +33,19 @@
 
 ##
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=naiynull&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=naiynull&theme=monokai&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naiynull&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <div>
  <a href="https://www.instagram.com/nay_null/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="manuborges011@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 
-🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/giovana-simas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+
 
 <img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
 
