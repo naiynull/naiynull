@@ -3,7 +3,7 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-### Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
+### Heeeeyy guys <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthirstymag.com%2Fand-transparent-image-8705676-on-2512288.html&psig=AOvVaw2d2yjwHqBNLVQ1q1vpb_b8&ust=1712920513827000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIitjqmEuoUDFQAAAAAdAAAAABAE" width="30px">
 
 ### work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
 
