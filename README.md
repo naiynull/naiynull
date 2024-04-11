@@ -20,6 +20,15 @@
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/phpstorm-original.svg?size=128&color=currentColor" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
+<img height="30" whidt="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+ 
+ 
 </div>  
 
 
