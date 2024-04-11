@@ -26,7 +26,7 @@
 <img height="30" whidt="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" />
 <img height="30" whidt="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
 <img height="30" whidt="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
-<img height="30" whidt="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+
  
  
 </div>  
