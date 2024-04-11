@@ -1,11 +1,11 @@
 ### Olá!! eu sou a Emanuely
 
+#
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
 ### Heeeeyy guys <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="30px">
 
-#
 
 ### work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
 
