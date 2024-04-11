@@ -15,9 +15,6 @@
 <img height="30" whidt="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>  
 
-🔗 Clique no botão ao lado para visualizar o meu perfil completo <a href="https://www.linkedin.com/in/giovana-simas/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-
-<img src="https://github.com/giovana-simas/giovana-simas/blob/main/snake.svg" alt="Snake animation" />
 
 ##
 
