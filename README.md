@@ -4,7 +4,7 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
 
-### Heeeeyy guys <img src="https://66.media.tumblr.com/tumblr_maw5scIAwf1rfjowdo1_500.gif" width="30px">
+### Heeeeyy guys <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 
 ### work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
