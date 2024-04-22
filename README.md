@@ -1,17 +1,24 @@
 ### Olá!! eu sou a Emanuely 
-
+ _Gosto de resolver problemas de forma criativa usando tecnologia. Trabalho com várias linguagens de programação, como C++, Python e PHP, e estou sempre buscando aprender mais._
 #
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://78.media.tumblr.com/50d43db43843a7dc2fbb93c660a1d0dc/tumblr_ozar2dfRQI1rh3rypo1_1280.gif">
 
-### _Heeeeyy guys_ <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="30px">
+### O que Faço: <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="30px">
 
 
->  work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
+>  💻 Desenvolvimento de Software: Trabalho com uma variedade de projetos de desenvolvimento de software, desde aplicações de desktop até sistemas distribuídos, utilizando linguagens como C++, Python e PHP. Tenho experiência em design de arquitetura de software, implementação de algoritmos complexos e resolução de problemas de performance.
+
+>🌐 Desenvolvimento Web: Crio aplicações web responsivas e escaláveis utilizando tecnologias como HTML, CSS, JavaScript, e frameworks modernos como React e Vue.js. Além disso, tenho experiência em desenvolvimento backend com PHP e frameworks como Laravel e Symfony.
+
+>🛠️ Tecnologias Adicionais: Estou familiarizado com TypeScript para desenvolvimento frontend e tenho conhecimentos em Laravel para construção de APIs robustas e escaláveis.
 
 
 #
 
+### Formação Acadêmica:
+>🎓 Estudante do CEFET-MG: Atualmente, estou cursando três anos de programação no Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG), onde tenho aprimorado minhas habilidades técnicas e desenvolvido projetos acadêmicos.
+#
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
