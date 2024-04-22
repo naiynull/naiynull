@@ -1,13 +1,13 @@
-### Olá!! eu sou a Emanuely
+### Olá!! eu sou a Emanuely 
 
 #
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://78.media.tumblr.com/50d43db43843a7dc2fbb93c660a1d0dc/tumblr_ozar2dfRQI1rh3rypo1_1280.gif">
 
-### Heeeeyy guys <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="30px">
+### _Heeeeyy guys_ <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="30px">
 
 
-### work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
+>  work as a software developer. I believe in the evolution of technology and I am always up to date with technological subjects. Always seeking knowledge and networking. 
 
 
 #
